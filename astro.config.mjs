@@ -16,17 +16,17 @@ export default defineConfig({
       github: 'https://github.com/withastro/starlight'
     },
     sidebar: [{
-      label: 'Guides',
+      label: 'Getting Sarted',
       items: [
       // Each item here is one entry in the navigation menu.
       {
-        label: 'Example Guide',
-        link: '/guides/example/'
+        label: 'Introduction to Astro',
+        link: '/introduction/astro/'
       }]
     }, {
-      label: 'Reference',
+      label: 'Chapter One',
       autogenerate: {
-        directory: 'reference'
+        directory: 'One'
       }
     }]
   }), 
