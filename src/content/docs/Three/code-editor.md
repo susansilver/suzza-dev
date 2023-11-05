@@ -28,7 +28,7 @@ Content Collections use TypeScript in their configuration. This gives you Type S
 
 You may not be familiar with [Tailwind CSS](https://tailwindcss.com/). This tool uses utility classes. It creates a stylesheet that only includes the classes you have used. It makes it simple to do your design work as you are coding. Hovering over a class will show you the CSS that you are using. 
 
-This is hard to explain briefly, I’ve added an addendum on this.
+This is hard to explain briefly, I’ve [added an addendum](/addendum/tailwind/) on this.
 
 
 ## Helpful VS Code Extensions 

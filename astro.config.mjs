@@ -87,6 +87,11 @@ export default defineConfig({
         { label: 'Thank You & Further Resources', link: '/remember/thank-you/' },
 				// A nested group of links.
       ],
+    }, {
+      label: 'Addendum',
+      autogenerate: {
+        directory: 'Addendum'
+      }
     }
   ]
   }), 
