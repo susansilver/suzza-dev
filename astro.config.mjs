@@ -5,7 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://stargazers.club',
+  site: 'https://suzza.dev',
   integrations: [starlight({
     title: 'Site with sitemap',
     favicon: '/favicon.ico',
