@@ -42,7 +42,8 @@ CSS
 ```
 
 JavaScript
-```js
+
+```javascript
 <script>
 const menuButton = document.getElementById("menuButton");
 const menuList = document.getElementById("menuList");
