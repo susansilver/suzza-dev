@@ -59,6 +59,21 @@ export default defineConfig({
       autogenerate: {
         directory: 'Seven'
       }
+    }, {
+      label: 'Chapter Eight',
+      autogenerate: {
+        directory: 'Eight'
+      }
+    }, {
+      label: 'Chapter Nine',
+      autogenerate: {
+        directory: 'Nine'
+      }
+    }, {
+      label: 'Chapter Ten',
+      autogenerate: {
+        directory: 'Ten'
+      }
     }
   ]
   }), 
