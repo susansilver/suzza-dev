@@ -5,7 +5,10 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://stargazers.club',
   integrations: [starlight({
+    title: 'Site with sitemap',
+    favicon: '/favicon.ico',
     title: 'Docs with Tailwind',
 		customCss: [
 				// Path to your Tailwind base styles:
