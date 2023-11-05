@@ -44,6 +44,11 @@ export default defineConfig({
       autogenerate: {
         directory: 'Four'
       }
+    }, {
+      label: 'Chapter Five',
+      autogenerate: {
+        directory: 'Five'
+      }
     }
   ]
   }), 
