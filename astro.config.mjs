@@ -11,9 +11,10 @@ export default defineConfig({
 				// Path to your Tailwind base styles:
 				'./src/styles/tailwind.css',
 			],
-    title: 'My Docs',
+    title: 'Newbie-ish Guide to Astro',
     social: {
-      github: 'https://github.com/withastro/starlight'
+      github: 'https://github.com/susansilver',
+      mastodon: 'https://mathstodon.xyz/@suzza',
     },
     sidebar: [{
       label: 'Getting Sarted',
@@ -32,6 +33,16 @@ export default defineConfig({
       label: 'Chapter Two',
       autogenerate: {
         directory: 'Two'
+      }
+    },{
+      label: 'Chapter Three',
+      autogenerate: {
+        directory: 'Three'
+      }
+    }, {
+      label: 'Chapter Four',
+      autogenerate: {
+        directory: 'Four'
       }
     }
   ]

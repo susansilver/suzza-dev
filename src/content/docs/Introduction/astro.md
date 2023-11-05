@@ -51,11 +51,15 @@ In this guide, I will highlight the choices that I made. Link to the relevant As
 2. Your [code editor is VS Code](https://code.visualstudio.com/). 
 3. You’ve [installed Node](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/) 
 
-The instruction above will install nvm. For the latest stable release of node use this command.
-```
+:::note
+The instruction above will install nvm. For the latest stable release of node use this command:
+
+```sh
 nvm install --lts
 ```
 You will need Node version 18.14.1 or higher to use Astro.
+:::
+
 
 
 
