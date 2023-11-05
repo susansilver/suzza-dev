@@ -74,6 +74,16 @@ export default defineConfig({
       autogenerate: {
         directory: 'Ten'
       }
+    }, {
+      label: 'Things to Remember',
+			items: [
+				{ label: 'Recommended Integrations', link: '/remember/integrations/' },
+				{ label: 'Check for Updates', link: '/remember/updates/' },
+        { label: 'Show Your Support', link: '/remember/support/' },
+        { label: 'Final Thoughts on Astro', link: '/remember/final-thoughts/' },
+        { label: 'Thank You & Further Resources', link: '/remember/thank-you/' },
+				// A nested group of links.
+      ],
     }
   ]
   }), 
