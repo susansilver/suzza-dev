@@ -28,7 +28,13 @@ export default defineConfig({
       autogenerate: {
         directory: 'One'
       }
-    }]
+    }, {
+      label: 'Chapter Two',
+      autogenerate: {
+        directory: 'Two'
+      }
+    }
+  ]
   }), 
   tailwind({
     // Disable the default base styles:
