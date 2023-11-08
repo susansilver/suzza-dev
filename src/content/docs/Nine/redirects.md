@@ -1,6 +1,6 @@
 ---
 title: Redirects Using Netlify
-description: Replace
+description: It is possible to manually create a redirects file on Netlify.
 ---
 
 When a website or blog grows large enough you may delete some content. This creates a 404 error indicating a missing page. Sometimes this is the correct thing to do. The best option though is to redirect that content to a relevant page. 

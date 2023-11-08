@@ -1,6 +1,6 @@
 ---
 title: Adding Icons
-description: Replace
+description: How to use SVG icons on your Astro website.
 ---
 
 I was not prepared for this journey. Figuring out an icon set led me to rethink some preconceived notions. Those of design, performance, and accessibility  I will talk about these but first, let's document what happened. 

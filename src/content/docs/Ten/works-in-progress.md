@@ -1,6 +1,6 @@
 ---
 title: Works in Progress
-description: Replace
+description: Astro components that I want to add to my personal website.
 ---
 There are some components that I am still working on. I'll update this document when finished. I thought it worthwhile to post them here for people more clever than me. If you find a solution, please let me know 
 

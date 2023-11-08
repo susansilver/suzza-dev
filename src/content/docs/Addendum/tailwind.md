@@ -1,6 +1,6 @@
 ---
 title: Tailwind CSS
-description: Replace
+description: A background on learning CSS before using Tailwind CSS.
 ---
 
 Before starting you must know CSS first. This is because [you need to know the properties](https://www.w3schools.com/cssref/index.php) and what they do. Tailwind CSS does not tell you this. Using it without knowing the basics is like deciphering a strange language.

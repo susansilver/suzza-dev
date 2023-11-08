@@ -1,6 +1,6 @@
 ---
 title: Navbar Issues
-description: Replace
+description: It is easy to create a responsive navigation menu in Astro with Tailwind CSS.
 ---
 
 There are times when I forget things. A navbar is not that difficult to code. Yet, I was so conditioned by the way that I make menus in WordPress. I will tell you all the things that I tried and what ended up working. 

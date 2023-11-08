@@ -1,6 +1,6 @@
 ---
 title: Creating Tag Archives
-description: Replace
+description: Information on creating a tag archive that uses pagination in Astro.
 ---
 
 Tags took me so long to figure out. It stumped me for a long time. I thought it should be fairly simple. It turns out, it was my code that needed refactoring. There were two discoveries that I needed to make to understand what went wrong

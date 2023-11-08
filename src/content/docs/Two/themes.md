@@ -1,6 +1,6 @@
 ---
 title: Choosing Themes
-description: Replace
+description: The information you need to add a theme to your Astro website.
 ---
 
 

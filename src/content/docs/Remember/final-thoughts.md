@@ -1,6 +1,6 @@
 ---
 title: Final Thoughts on Astro
-description: Replace
+description: Opinions on Astro as a framework for small business and personal use.
 ---
 
 Things seem to go in cycles. We are moving beyond JavaScript frameworks. Moving back to simple websites with HTML and CSS. The difference is that we have new technologies under the hood.

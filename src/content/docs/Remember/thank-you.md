@@ -1,6 +1,6 @@
 ---
 title: Thank You & Further Resources
-description: Replace
+description: People who create Astro content.
 ---
 
 Astro is open source. Which means [they have many contributors](https://astro.badg.es/). There are more than 3.000! It is easy to get started [using this guide](https://docs.astro.build/en/contribute/). What I like is that they encourage contributions that aren’t code. Like providing a translation of the docs. They also update their blog each month [honoring outstanding contributors](https://astro.build/blog/whats-new-october-2023/).

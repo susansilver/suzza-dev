@@ -1,6 +1,6 @@
 ---
 title: Non-Updating Code
-description: Replace
+description: This is how you can fix code that happens when your Astr site is built.
 ---
 There are issues that you can catch in your dev environment. Alas, there are errors that you will only catch if you try building your project. This happened with my Navbar.
 

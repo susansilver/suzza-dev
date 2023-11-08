@@ -1,6 +1,6 @@
 ---
 title: Show Your Support
-description: Replace
+description: Ways that you can support this site.
 ---
 **You can [purchase an ebook](https://suzza.ck.page/products/the-newbie-ish-guide-to-astro) with the information on this website for $10.**
 

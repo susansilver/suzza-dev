@@ -1,6 +1,6 @@
 ---
 title: URL Routing
-description: Replace
+description: How to create pagination for your Astro archives.
 ---
 This is a reminder that if you get stuck check the docs. 
 

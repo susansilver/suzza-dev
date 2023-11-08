@@ -1,6 +1,6 @@
 ---
 title: Introduction to Astro
-description: Replace
+description: The things you need to know to use Astro.
 ---
 
 [Astro is a framework](https://astro.build/) that ticks all the marks for modern web development. It is a static site generator (SSG) that serves pages in HTML and CSS. It is perfect for blogs because it defaults to shipping zero JavaScript. This makes content-focused websites blazingly fast. However, if needed, you can still write and load JavaScript using any UI framework you like. Astro supports React, Vue, Svelte, and more. It also supports vanilla JavaScript in its .astro files. 
@@ -49,7 +49,8 @@ In this guide, I will highlight the choices that I made. Link to the relevant As
 
 1. You should have [some comfort using the command line](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/). 
 2. Your [code editor is VS Code](https://code.visualstudio.com/). 
-3. You’ve [installed Node](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/) 
+3. You are [using NPM](https://www.freecodecamp.org/news/what-is-npm-a-node-package-manager-tutorial-for-beginners/)
+4. You’ve [installed Node](https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/) 
 
 :::note
 The instruction above will install nvm. For the latest stable release of node use this command:
@@ -63,6 +64,6 @@ You will need Node version 18.14.1 or higher to use Astro.
 
 
 
-4. That you [have a GitHub account](https://github.com/). 
+5. That you [have a GitHub account](https://github.com/). 
 
 Okay, [let’s get started](https://docs.astro.build/en/install/auto/). 

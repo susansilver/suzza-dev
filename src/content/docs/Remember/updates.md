@@ -1,6 +1,6 @@
 ---
 title: Check for Updates 
-description: Replace
+description: Instructions for updating your npm packages.
 ---
 You will have to update your website sometimes. This is easy to do. First, run the command **npm outdated**. This will show you all the updates available. 
 

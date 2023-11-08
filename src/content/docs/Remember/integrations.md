@@ -1,6 +1,6 @@
 ---
 title: Recommended Integrations
-description: Replace
+description: These are suggested Astro integrations.
 ---
 There is a wide [variety of integrations ](https://astro.build/integrations/)for Astro. I use only a few. Here are the ones that I suggest.
 

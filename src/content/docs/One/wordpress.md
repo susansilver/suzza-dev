@@ -1,6 +1,6 @@
 ---
 title: Why I Left WordPress
-description: Replace
+description: Security issues with WordPress are one reason to use a Static Site Generator.
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Using VS Code
-description: Replace
+description: VS Code is the suggested code editor for Astro.
 ---
 
 A code editor is a personal choice. I have seen several developers make their top-tier lists. You will see things like Sublime Text, Notepad++, and an IDE from JetBrains.
